@@ -1,0 +1,3 @@
+# What is a market maker?
+The term market maker refers to a firm or individual who actively quotes [two-sided markets](https://www.investopedia.com/terms/t/two-sidedmarket.asp) in a particular security, providing [bids](https://www.investopedia.com/terms/b/bid.asp) and offers (known as [asks](https://www.investopedia.com/terms/a/ask.asp)) along with the market size of each. Market makers provide [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) and depth to markets and profit from the difference in the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp). [Source](https://www.investopedia.com/terms/m/marketmaker.asp)
+

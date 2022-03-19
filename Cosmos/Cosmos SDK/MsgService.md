@@ -1,0 +1,4 @@
+# MsgService
+A Protobuf `Msg` service processes [messages](https://docs.cosmos.network/v0.44/building-modules/messages-and-queries.html#messages). Protobuf `Msg` services are specific to the module in which they are defined, and only process messages defined within the said module. They are called from `BaseApp` during [`DeliverTx`](https://docs.cosmos.network/v0.44/core/baseapp.html#delivertx).
+
+A protobuf msg service gets compiled to a msgServer interface, which the module developer must implement. The msgServer handles transaction messages. It is routed to by the router and performs state transitions by utilizing references to keepers.

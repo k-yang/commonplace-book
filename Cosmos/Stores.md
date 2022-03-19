@@ -1,0 +1,2 @@
+# Multistore
+The application state is persisted in a multistore (a store of stores). Each module declares and manages its own store(s) in the multistore. Stores in the multistore can only be accessed with the proper `capability key`, which typically the module's `keeper` has. 
